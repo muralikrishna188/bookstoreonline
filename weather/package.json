@@ -1,0 +1,10 @@
+{
+    "name": "todo-api",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
