@@ -1,0 +1,24 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions.Generator-4.1.0",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "httpTrigger",
+      "methods": [
+        "post"
+      ],
+      "authLevel": "anonymous",
+      "name": "req"
+    },
+    {
+      "type": "blob",
+      "connection": "StorageConnectionString",
+      "blobPath": "orders",
+      "access": 2,
+      "name": "container"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/order.dll",
+  "entryPoint": "AzureCourse.Function.EventGridFunction.Run"
+}

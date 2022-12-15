@@ -1,0 +1,53 @@
+﻿@page
+
+@using Models
+
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    var books=ViewData["books"] as List<Book>;
+}
+
+<div class="text-center">
+
+    <h1 class="display-5">Shopping Cart</h1>
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Author</th>
+            <th>Price</th>   
+            <th></th>       
+        </tr>        
+    
+    @foreach (var book in books)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(m=>book.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>book.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>book.Price)
+            </td>
+            <td>
+                <form asp-page-handler="removeFromShoppingCart" method="post">
+                    <input type="hidden" name="bookId" value="@book.ID"/>
+                    <button>Remove from shopping cart</button>
+                </form>                
+            </td>
+        </tr>        
+    }
+    </table> 
+
+    @if (books.Count>0)  {
+        <form asp-page-handler="placeOrder" method="post">
+            <button>Place Order</button>
+        </form>
+    }   
+
+    @if (ViewData["OrderStatus"]!=null)  {
+        <p>@ViewData["OrderStatus"]</p>
+    }
+</div>

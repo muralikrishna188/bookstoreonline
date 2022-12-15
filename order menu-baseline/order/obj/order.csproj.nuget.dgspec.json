@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\order-baseline\\order\\order.csproj": {}
+  },
+  "projects": {
+    "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\order-baseline\\order\\order.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\order-baseline\\order\\order.csproj",
+        "projectName": "order",
+        "projectPath": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\order-baseline\\order\\order.csproj",
+        "packagesPath": "C:\\Users\\mural\\.nuget\\packages\\",
+        "outputPath": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\order-baseline\\order\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mural\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Azure.Storage.Blob": {
+              "target": "Package",
+              "version": "[11.2.3, )"
+            },
+            "Microsoft.Azure.WebJobs.Extensions.CosmosDB": {
+              "target": "Package",
+              "version": "[3.0.10, )"
+            },
+            "Microsoft.Azure.WebJobs.Extensions.Storage": {
+              "target": "Package",
+              "version": "[4.0.5, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
