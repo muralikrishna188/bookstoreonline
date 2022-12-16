@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\inventory.csproj": {}
+    "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\inventory.csproj": {}
   },
   "projects": {
-    "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\inventory.csproj": {
+    "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\inventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\inventory.csproj",
+        "projectUniqueName": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\inventory.csproj",
         "projectName": "inventory",
-        "projectPath": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\inventory.csproj",
+        "projectPath": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\inventory.csproj",
         "packagesPath": "C:\\Users\\mural\\.nuget\\packages\\",
-        "outputPath": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\obj\\",
+        "outputPath": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mural\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5GM/9dKiHs9Nff+jqh8SIB+oRn0Urq0EBM8jQUdG9CI=",
+  "Hash": "NyLCckM9jaRzuuAbzAOyG8U9HY8wGJc2lb2KyMEQQp0=",
   "Source": "inventory",
   "BasePath": "_content/inventory",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "inventory\\wwwroot",
       "Source": "inventory",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\css\\site.css",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\css\\site.css",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\favicon.ico",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\favicon.ico",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\images\\cart.JPG",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\images\\cart.JPG",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "images/cart.JPG",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cart.JPG"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\images\\logo.jpg",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\images\\logo.jpg",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "images/logo.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\js\\site.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\js\\site.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "inventory",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\wwwroot\\",
+      "ContentRoot": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\wwwroot\\",
       "BasePath": "_content/inventory",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

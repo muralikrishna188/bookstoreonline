@@ -1,0 +1,38 @@
+@page
+
+@model WeatherModel
+
+<div class="text-center">
+
+    <h1 class="display-5">Our Weather:</h1>
+    <form asp-page-handler="weather" method="post">
+        Weather Server IP:
+        @if (ViewData["ip"] == null)
+        {
+            <input type="text" name="ip" />
+        }
+        else
+        {
+            <input type="text" name="ip" value="@ViewData["ip"]" />
+        }
+
+        <button>Get Weather</button>
+    </form>
+    <br /><br />
+    @if (ViewData["weather"] != null)
+    {
+        <p> @ViewData["weather"] degrees Celsius</p>
+    }
+    else
+    {
+        if (ViewData["error"] != null)
+        {
+            <p style="color: red;">@ViewData["error"]</p>
+        }
+        else
+        {
+            <p>No weather data</p>
+        }
+    }
+
+</div>

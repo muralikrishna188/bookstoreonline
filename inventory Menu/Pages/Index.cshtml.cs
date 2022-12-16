@@ -32,7 +32,7 @@ namespace inventory.Pages
             // catch (Exception ex)  {
             //     ViewData["Error"]=ex.Message;
             // }
-            ViewData["books"]=books;
+            // ViewData["books"]=books;
 
         }
 

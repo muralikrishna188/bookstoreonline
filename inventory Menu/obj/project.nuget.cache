@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BUi7tQPz1LUyPZzir689Q7l+9q/Tua5FbZLcQmiuRGsWaiMXIVB+LzbX599tWb8jR3RcyQef/DxF2MKEiNiX/Q==",
+  "dgSpecHash": "rtWMAdM4qSzJVt6MVJ6L79Aa4czVTzySSMkb9bTVqJC3neAdTH4XXA/6EuT8WjXXFYcjpgHSpJf7GjfJoZdZUg==",
   "success": true,
-  "projectFilePath": "D:\\Material\\Azure\\BookshopCode\\DevOps-Cloud-Architecure\\inventory\\inventory.csproj",
+  "projectFilePath": "E:\\BookStoreOnlineApp\\bookstoreonline\\inventory Menu\\inventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mural\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

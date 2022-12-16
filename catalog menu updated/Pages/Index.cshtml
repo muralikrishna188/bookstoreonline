@@ -1,0 +1,60 @@
+﻿@page
+
+@using Models
+
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<img width="40" src="~/images/cart.jpg"/> (@ViewData["cartNo"])
+<br/>
+<div class="text-center">
+
+    <h1 class="display-5">Our Books:</h1>
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Author</th>
+            <th>Pages</th>  
+            <th>Price</th>   
+            <th></th>       
+        </tr>        
+    
+    @foreach (var book in ViewData["books"] as List<Book>)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(m=>book.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>book.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>book.Pages)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>book.Price)
+            </td>
+            <td>
+                @if (book.InStock<=0)  {
+                    <p>Out of stock :-(</p>
+                }
+                else  {
+                <form asp-page-handler="addToShoppingCart" method="post">
+                    <input type="hidden" name="bookId" value="@book.ID"/>
+                    <button>Add to shopping cart</button>
+                </form>
+                }
+            </td>
+        </tr>        
+    }
+    </table>
+    <form asp-page-handler="load" method="post">
+        <button>Load Books to DB</button>
+    </form>
+
+    @if (ViewData["Error"]!=null)  {
+        <p style='color: red'>@ViewData["Error"]</p>
+    }
+</div>
