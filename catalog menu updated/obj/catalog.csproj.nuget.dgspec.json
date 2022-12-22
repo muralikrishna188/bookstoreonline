@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[6.0.3, )"
             },
+            "Microsoft.Extensions.Configuration.AzureKeyVault": {
+              "target": "Package",
+              "version": "[3.1.24, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[6.0.0, )"

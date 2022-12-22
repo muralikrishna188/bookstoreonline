@@ -1,4 +1,5 @@
 E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\inventory.exe
+E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\publish\publish\publish\web.config
 E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\publish\publish\web.config
 E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\publish\web.config
 E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\web.config
@@ -21,6 +22,10 @@ E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\
 E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\publish\publish\appsettings.json
 E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\publish\publish\inventory.deps.json
 E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\publish\publish\inventory.runtimeconfig.json
+E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\publish\publish\publish\appsettings.Development.json
+E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\publish\publish\publish\appsettings.json
+E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\publish\publish\publish\inventory.deps.json
+E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\publish\publish\publish\publish\publish\inventory.runtimeconfig.json
 E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\inventory.dll
 E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\inventory.deps.json
 E:\BookStoreOnlineApp\bookstoreonline\inventory Menu\bin\Release\net6.0\publish\inventory.runtimeconfig.json
