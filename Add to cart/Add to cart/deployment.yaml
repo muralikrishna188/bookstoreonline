@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: readit-cart
-        image: bookshopacrapp101.azurecr.io/cart:latest
+        image: aksacr002.azurecr.io/cart:$(Build.BuildId)
 
         ports:
          - containerPort: 80
