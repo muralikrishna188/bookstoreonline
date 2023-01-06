@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/049cc0b9-2696-4e70-871b-4366be487c19/AppServices/subscriptions/049cc0b9-2696-4e70-871b-4366be487c19/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/webappinventoryus101",
+    "appService.deploySubpath": "inventory\\publish"
+}
