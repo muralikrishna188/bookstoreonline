@@ -8,33 +8,33 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = catalog
 build_property.RootNamespace = catalog
-build_property.ProjectDir = e:\BookStoreOnlineApp\bookstoreonline\catalog menu updated\
+build_property.ProjectDir = c:\bookstore1\bookstoreonline\catalog menu updated\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = e:\BookStoreOnlineApp\bookstoreonline\catalog menu updated
+build_property.MSBuildProjectDirectory = c:\bookstore1\bookstoreonline\catalog menu updated
 build_property._RazorSourceGeneratorDebug = 
 
-[e:/BookStoreOnlineApp/bookstoreonline/catalog menu updated/Pages/Index.cshtml]
+[c:/bookstore1/bookstoreonline/catalog menu updated/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/BookStoreOnlineApp/bookstoreonline/catalog menu updated/Pages/Shared/_Layout.cshtml]
+[c:/bookstore1/bookstoreonline/catalog menu updated/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/BookStoreOnlineApp/bookstoreonline/catalog menu updated/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/bookstore1/bookstoreonline/catalog menu updated/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/BookStoreOnlineApp/bookstoreonline/catalog menu updated/Pages/Weather.cshtml]
+[c:/bookstore1/bookstoreonline/catalog menu updated/Pages/Weather.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/BookStoreOnlineApp/bookstoreonline/catalog menu updated/Pages/_ViewImports.cshtml]
+[c:/bookstore1/bookstoreonline/catalog menu updated/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/BookStoreOnlineApp/bookstoreonline/catalog menu updated/Pages/_ViewStart.cshtml]
+[c:/bookstore1/bookstoreonline/catalog menu updated/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
