@@ -11255,32 +11255,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\memil\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\mural\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\catalog.csproj",
+      "projectUniqueName": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\catalog.csproj",
       "projectName": "catalog",
-      "projectPath": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\catalog.csproj",
-      "packagesPath": "C:\\Users\\memil\\.nuget\\packages\\",
-      "outputPath": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\obj\\",
+      "projectPath": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\catalog.csproj",
+      "packagesPath": "C:\\Users\\mural\\.nuget\\packages\\",
+      "outputPath": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\memil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\mural\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://pkgs.dev.azure.com/reach2muralid/newappus001/_packaging/newappusfeed/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -11347,7 +11341,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x8vzWo5zlriF6HJYnD6lCtWQGuRhNuEVIcJ2g1UoyIY=",
+  "Hash": "hj+cYEJ/F+0q5SWzSIQf2RWynRetUAkQlNitSMEZIIs=",
   "Source": "catalog",
   "BasePath": "_content/catalog",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "catalog\\wwwroot",
       "Source": "catalog",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\css\\site.css",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\favicon.ico",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\images\\cart.JPG",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\images\\cart.JPG",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "images/cart.JPG",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cart.JPG"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\images\\logo.jpg",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\images\\logo.jpg",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "images/logo.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\js\\site.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\js\\site.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "catalog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tech\\AZCourse\\NET6\\catalog-baseline-01\\catalog\\wwwroot\\",
+      "ContentRoot": "E:\\Cloud Arhciteture-Live project-April2023\\bookstoreonline\\catalog menu\\catalog\\wwwroot\\",
       "BasePath": "_content/catalog",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

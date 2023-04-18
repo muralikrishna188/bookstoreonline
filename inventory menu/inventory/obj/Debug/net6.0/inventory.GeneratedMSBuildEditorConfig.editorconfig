@@ -8,29 +8,29 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = inventory
 build_property.RootNamespace = inventory
-build_property.ProjectDir = E:\DevScOps Project\bookstoreonline\inventory menu\inventory\
+build_property.ProjectDir = e:\Cloud Arhciteture-Live project-April2023\bookstoreonline\inventory Menu\inventory\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\DevScOps Project\bookstoreonline\inventory menu\inventory
+build_property.MSBuildProjectDirectory = e:\Cloud Arhciteture-Live project-April2023\bookstoreonline\inventory Menu\inventory
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/DevScOps Project/bookstoreonline/inventory menu/inventory/Pages/Index.cshtml]
+[e:/Cloud Arhciteture-Live project-April2023/bookstoreonline/inventory Menu/inventory/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DevScOps Project/bookstoreonline/inventory menu/inventory/Pages/Shared/_Layout.cshtml]
+[e:/Cloud Arhciteture-Live project-April2023/bookstoreonline/inventory Menu/inventory/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DevScOps Project/bookstoreonline/inventory menu/inventory/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[e:/Cloud Arhciteture-Live project-April2023/bookstoreonline/inventory Menu/inventory/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DevScOps Project/bookstoreonline/inventory menu/inventory/Pages/_ViewImports.cshtml]
+[e:/Cloud Arhciteture-Live project-April2023/bookstoreonline/inventory Menu/inventory/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DevScOps Project/bookstoreonline/inventory menu/inventory/Pages/_ViewStart.cshtml]
+[e:/Cloud Arhciteture-Live project-April2023/bookstoreonline/inventory Menu/inventory/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
